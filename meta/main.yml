@@ -1,8 +1,9 @@
 galaxy_info:
-  role_name: vector_role
-  namespace: yura
-  author: Yuri Kondratev
-  description: Install Vector
-  company: AO Gazprombank
+  role_name: vector-role
+  namespace: goddim
+  author: goddim
+  description: is
+  company: Netology
   license: MIT
   min_ansible_version: 2.1
+  galaxy_tags: []
